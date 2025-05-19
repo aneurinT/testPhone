@@ -401,7 +401,7 @@ onUnmounted(() => {
 
 /* 图片样式 */
 .item img {
-  aspect-ratio: 3/4;
+  aspect-ratio: 5/4;
   object-fit: cover;
 }
 
